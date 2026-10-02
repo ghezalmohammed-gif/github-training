@@ -1,0 +1,3 @@
+Robot: SEER
+Protocol: VDA5050
+Status: enabled
