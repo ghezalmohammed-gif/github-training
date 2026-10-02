@@ -1,2 +1,2 @@
-Hello GitHub!
-This is my first Git project.
+Hello from GitHub!
+This is my first Git projectv.
